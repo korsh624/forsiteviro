@@ -1,0 +1,7 @@
+https://viro33.ru/tsifrovizatsiya-obrazovaniya/pedagogu.php?clear_cache=Y
+<iframe id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="300"
+    height="200"
+    src="http://foriframe-viro330.1gb.ru/">
+</iframe>
